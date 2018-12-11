@@ -23,5 +23,9 @@
 
     </dependencies>
 
+    <properties>
+        <maven.compiler.source>3.6.0</maven.compiler.source>
+        <maven.compiler.target>3.6.0</maven.compiler.target>
+    </properties>
 
 </project>
